@@ -1,12 +1,12 @@
-## Hi there 👋
+# Better Call US!
+an open-source, software development team. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Team Members  | Role | Portfolio |
+| ------------- | ------------- |  ------------- |
+| `Mani Jalilzadeh`  | **Product Management**,Product Designer  | [Linkedin](https://linkedin.com/in/wayofmani) |
+| `Amir Asady-Pour`  | **Back-end Developer**  | `unavailable right now` |
+| `Sajjad Karimi`  | **Front-end Developer**| `unavailable right now` |
+| `Younes Azizi`  | **3D Artist**  | [Dribbble](https://dribbble.com/designbyounes) |
+| `Ahmad Reza Torkaman`  | **Photographer**, Graphic Designer  | [Instagram](https://www.instagram.com/ahmdrezaat/) |
+| `Erfan Naeini`  | **Game Tester** | [Steam](https://steamcommunity.com/id/DawshErfan/) |
+| `Sina`  | **Content Creator** | [Twitch](https://twitch.tv/sinadialup) |
