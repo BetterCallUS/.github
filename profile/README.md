@@ -1,13 +1,13 @@
 # Better Call US!
 an open-source, software development team. 
 ## Upcoming
-| Project Name  | Tags | Repo |
-| ------------- | ------------- |  ------------- |
-| Univery's Web Extension  | Private, Free-Learning, Extension | [GitHub Public Repo](https://github.com/BetterCallUS/Univery) |
+|Project Name  |Tags |Repo |
+|------------- |------------- | ------------- |
+| Univery's Web Extension  | `Design to Code` `Unofficial` `Extension` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) |
 
 ## Our Team Members
-| Team Members  | Role | Portfolio |
-| ------------- | ------------- |  ------------- |
+|Team Members  |Role |Portfolio |
+|------------- | ------------- |  ------------- |
 | `Mani Jalilzadeh`  | **Product Management**,Product Designer  | [Linkedin](https://linkedin.com/in/wayofmani) |
 | `Amir Asady-Pour`  | **Back-end Developer**  | `unavailable right now` |
 | `Sajjad Karimi`  | **Front-end Developer**| `unavailable right now` |
