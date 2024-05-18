@@ -1,10 +1,5 @@
 # Better Call US!
 an open-source, software development team. 
-## Projects
-|Project Name  |Tags |Repo |Repo |
-|------------- |------------- | ------------- | ------------- |
-| Dating App  | `Design to Code` `Excelucive` `App` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) | Developing |
-| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) | Upcoimng... |
 
 ## Our Team Members
 |Team Members  |Role |Portfolio |
@@ -16,3 +11,12 @@ an open-source, software development team.
 | Ahmad Reza Torkaman | `Photographer` , `Graphic Designer`  | [Instagram](https://www.instagram.com/ahmdrezaat/) |
 | Erfan Naeini  | `Game Tester`,`Android Developer` | [Steam](https://steamcommunity.com/id/DawshErfan/) |
 | Sina  | `Content Creator` | [Twitch](https://twitch.tv/sinadialup) |
+
+
+## Projects
+|Project Name  |Tags |Repo |Repo |
+|------------- |------------- | ------------- | ------------- |
+| Dating App  | `Design to Code` `Excelucive` `App` | [ Repo ](https://github.com/BetterCallUS/Univery) | Developing... |
+| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Upcoimng... / Concept Released |
+
+
