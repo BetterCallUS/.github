@@ -1,9 +1,10 @@
 # Better Call US!
 an open-source, software development team. 
-## Upcoming
-|Project Name  |Tags |Repo |
-|------------- |------------- | ------------- |
-| Univery's Web Extension  | `Design to Code` `Unofficial` `Extension` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) |
+## Projects
+|Project Name  |Tags |Repo |Repo |
+|------------- |------------- | ------------- | ------------- |
+| Dating App  | `Design to Code` `Excelucive` `App` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) | Developing |
+| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ GitHub Public Repo ](https://github.com/BetterCallUS/Univery) | Upcoimng... |
 
 ## Our Team Members
 |Team Members  |Role |Portfolio |
