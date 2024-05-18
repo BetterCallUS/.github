@@ -5,7 +5,7 @@ an open-source, software development team.
 |Team Members  |Role |Portfolio |
 |------------- | ------------- |  ------------- |
 | Mani Jalilzadeh  | `Product Management` , `Product Designer` | [Linkedin](https://linkedin.com/in/wayofmani) |
-| Amir Asady-Pour | `Back-end Developer`  | unavailable |
+| Amir Asady-Pour | `Back-end Developer`  | [LinkedIn](https://www.linkedin.com/in/amir-asadipour-4aa817217) |
 | Sajjad Karimi  | `Front-end Developer` | unavailable |
 | Younes Azizi | `3D Artist`  | [Dribbble](https://dribbble.com/designbyounes) |
 | Ahmad Reza Torkaman | `Photographer` , `Graphic Designer`  | [Instagram](https://www.instagram.com/ahmdrezaat/) |
@@ -14,9 +14,9 @@ an open-source, software development team.
 
 
 ## Projects
-|Project Name  |Tags |Repo |Repo |
+|Project Name  |Tags |Repo |Status |
 |------------- |------------- | ------------- | ------------- |
-| Dating App  | `Design to Code` `Excelucive` `App` | [ Repo ](https://github.com/BetterCallUS/Univery) | Developing... |
+| Dating App  | `Excelucive` `App` | [ Repo ](https://github.com/BetterCallUS/Univery) | Developing... |
 | Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Upcoimng... / Concept Released |
 
 
