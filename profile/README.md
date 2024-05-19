@@ -17,6 +17,6 @@ an open-source, software development team.
 |Project Name  |Tags |Repo |Status |
 |------------- |------------- | ------------- | ------------- |
 | Dating App  | `Excelucive` `App` | [ Repo ](https://github.com/BetterCallUS/Univery) | Developing... |
-| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Upcoimng... / Concept Released |
+| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Concept Released |
 
 
