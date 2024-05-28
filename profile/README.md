@@ -4,7 +4,7 @@ an open-source, software development team.
 ## Our Team Members
 |Team Members  |Role |Portfolio |
 |------------- | ------------- |  ------------- |
-| Mani Jalilzadeh  | `Product Management` , `Product Designer` | [Linkedin](https://linkedin.com/in/wayofmani) |
+| Mani Jalilzadeh  | `Product Designer` | [Linkedin](https://linkedin.com/in/wayofmani) |
 | Amir Asady-Pour | `Back-end Developer`  | [LinkedIn](https://www.linkedin.com/in/amir-asadipour-4aa817217) |
 | Sajjad Karimi  | `Front-end Developer` | unavailable |
 | Younes Azizi | `3D Artist`  | [Dribbble](https://dribbble.com/designbyounes) |
