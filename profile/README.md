@@ -4,7 +4,7 @@ an open-source, software development team.
 ## Projects
 |Project Name  |Tags |Repo |Status |
 |------------- |------------- | ------------- | ------------- |
-| Dating App  | `Excelucive` `App` `Meeting` | [ Private | Developing... |
+| Dating App  | `Excelucive` `App` `Meeting` | Private | Developing... |
 | Dota2 Playtime  | `Excelucive` `Fun` `Dota2` | [ Repo ](https://github.com/BetterCallUS/Dota2_Playtime) | V1 Released |
 | Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Concept Released |
 
