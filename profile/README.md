@@ -1,6 +1,13 @@
 # Better Call US!
 an open-source, software development team. 
 
+## Projects
+|Project Name  |Tags |Repo |Status |
+|------------- |------------- | ------------- | ------------- |
+| Dating App  | `Excelucive` `App` `Meeting` | [ Private | Developing... |
+| Dota2 Playtime  | `Excelucive` `Fun` `Dota2` | [ Repo ](https://github.com/BetterCallUS/Dota2_Playtime) | V1 Released |
+| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Concept Released |
+
 ## Our Team Members
 |Team Members  |Role |Portfolio |
 |------------- | ------------- |  ------------- |
@@ -10,14 +17,3 @@ an open-source, software development team.
 | Younes Azizi | `3D Artist`  | [Dribbble](https://dribbble.com/designbyounes) |
 | Ahmad Reza Torkaman | `Photographer` , `Graphic Designer`  | [Instagram](https://www.instagram.com/ahmdrezaat/) |
 | Erfan Naeini  | `Game Tester`,`Android Developer` | [Steam](https://steamcommunity.com/id/DawshErfan/) |
-| Sina Khosravi | `Content Creator` | [Twitch](https://twitch.tv/sinadialup) |
-
-
-## Projects
-|Project Name  |Tags |Repo |Status |
-|------------- |------------- | ------------- | ------------- |
-| Dating App  | `Excelucive` `App` `Meeting` | [ Private | Developing... |
-| Dota2 Playtime  | `Excelucive` `Fun` `Dota2` | [ Repo ](https://github.com/BetterCallUS/Dota2_Playtime) | V1 Released |
-| Univery Extension  | `Design to Code` `Unofficial` `Extension` | [ Repo ](https://github.com/BetterCallUS/Univery) | Concept Released |
-
-
